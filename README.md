@@ -4,4 +4,5 @@ Categorised the tweets in following:
   1) Negative
   2) Positive
   3) Neutral
-On the basis of tweets analyzed the impact on the citizens and using that predicted the probability of winning.  
+  
+On the basis of tweets analyzed the impact on the citizens of United States and using that predicted the probability of winning his elections.
